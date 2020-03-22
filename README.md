@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this lab, we will learn more about scikit-learn and start learning about unsupervised learning.
+ In this lab, we will learn more about scikit-learn and start learning about unsupervised learning.
 
 ## Getting Started
 
